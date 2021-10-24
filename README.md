@@ -1,5 +1,8 @@
 # Movies_ETL
 
+It was create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
+
+
 ## The wiki_movies_df DataFrame
 
 ![movies_df(Challenge))](https://user-images.githubusercontent.com/87731897/138614282-984766f4-9cf6-47a1-bedd-4b6326533d1e.png)
